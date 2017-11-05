@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Growthcasts Blog
+tagline:          Growth marketing for early-stage startups.
+description:      A website on growth marketing for early-stage startups.
+canonical: https://growthcasts.co/blog
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Pieter Moorman
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  email:          pieter@growthcasts.co
+  twitter:        
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Ubud, Bali"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,10 +30,10 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+  - title: Free course
+    url: https://growthcasts.co
     external: true
-  - title: Cole Who?
+  - title: Consulting
     url: http://coletownsend.com
     external: true
 
