@@ -1,22 +1,23 @@
 ---
 layout: post-no-feature
-title: "Image in Post"
-description: "Once when I was six years old I saw a magniﬁcent picture in a book, called
-True Stories from Nature, about the primeval forest."
+title: Image in Post
+description: Once when I was six years old I saw a magniﬁcent picture in a book, called
+  True Stories from Nature, about the primeval forest.
 comments: true
-category: articles
+categories: articles
+date: 2013-08-05 00:00:00 +0000
 ---
+It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
 
- It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
- 
- ![Drawing A]({{ site.url }}/images/money.jpg)
- 
- In the book it said: “Boa constrictors swallow their prey whole, without
+![Drawing A]({{ site.url }}/images/money.jpg)
+
+In the book it said: “Boa constrictors swallow their prey whole, without
 chewing it. After that they are not able to move, and they sleep through the
 six months that they need for digestion.”
+-
 
 I pondered deeply, then, over the adventures of the jungle. And after some
-work with a colored pencil I succeeded in making my ﬁrst drawing. 
+work with a colored pencil I succeeded in making my ﬁrst drawing.
 My Drawing Number One. It looked like this:
 
 ![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
